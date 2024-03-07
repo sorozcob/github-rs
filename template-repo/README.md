@@ -1,4 +1,4 @@
-# Sumador de Números en Archivo
+# [Nombre del proyecto o script]
 
 [Descripción del script]
 
