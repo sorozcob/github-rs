@@ -1,28 +1,28 @@
 # [Nombre del proyecto o script]
 
-[Descripción_del_script]
+[Descripción del script]
 
-## Uso
+## Uso:
 
-[Instrucciones_de_uso]
+[Instrucciones de uso]
 
-## Salida
+## Salida:
 
-[Acción_de_salida]
+[Acción de salida]
 
-## Control de errores
+## Control de errores:
 
 Si el archivo proporcionado no existe, el script generará un mensaje de error. Del mismo modo, si el archivo contiene entradas que no son correspondientes, el script generará un error.
 
-## Pruebas
+## Pruebas:
 
 El script incluye un conjunto de pruebas unitarias. Puede ejecutar estas pruebas con:
 
 ```
-python -m unittest [Nombre_del_script].py
+python -m unittest [Nombre del script].py
 ```
 
-## Datos
+## Datos:
 
 El script está diseñado para operar en archivos de texto plano, con un número por línea. No hay restricciones en el número de líneas en el archivo.
 
