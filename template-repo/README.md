@@ -1,19 +1,14 @@
 # [Nombre del proyecto o script]
 
-[Descripción del script]
+[Descripción_del_script]
 
 ## Uso
 
-[Instrucciones de uso]
-
-```
-
-```
-
+[Instrucciones_de_uso]
 
 ## Salida
 
-[Acción de salida]
+[Acción_de_salida]
 
 ## Control de errores
 
@@ -24,7 +19,7 @@ Si el archivo proporcionado no existe, el script generará un mensaje de error. 
 El script incluye un conjunto de pruebas unitarias. Puede ejecutar estas pruebas con:
 
 ```
-python -m unittest [Nombre del script].py
+python -m unittest [Nombre_del_script].py
 ```
 
 ## Datos
