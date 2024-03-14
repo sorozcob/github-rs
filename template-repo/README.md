@@ -1,6 +1,6 @@
-# [Nombre del proyecto o script]
+# [Nombre del proyecto o script ♡]
 
-[Descripción del script]
+[Descripción del proyecto general]
 
 ## Uso
 
