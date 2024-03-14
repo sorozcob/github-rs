@@ -1,4 +1,4 @@
-# Sumador de Números en Archivo
+# Nombre del Proyecto
 
 Fecha: 
 
@@ -37,7 +37,7 @@ Algoritmo
 El formato de los datos de entrada y de salida.
 
 
-#### Caso de uso: Sumar Números
+#### Caso de uso: 
 
 ```
          +---------------+
